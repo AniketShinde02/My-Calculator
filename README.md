@@ -1,4 +1,4 @@
-# Fun Calculator Project
+#  My Calculator Project
 
 ## Introduction
 
