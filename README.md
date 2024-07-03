@@ -15,7 +15,7 @@ Welcome to the Fun Calculator Project! A simple yet delightful calculator applic
 
 To begin developing the Fun Calculator project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com`
+1. Clone the repository: `https://github.com/AniketShinde02/Simple-Calculator`
 2. Navigate to the project directory: `cd fun-calculator`
 3. Open the `index.html` in your favorite web browser.
 
