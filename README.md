@@ -48,5 +48,5 @@ Thanks to all the contributors who have made this project better. Your support a
 
 ## Contact
 
-If you have any queries, feel free to write us at [your email address].
+If you have any queries, feel free to write us at #shindeaniket085@gmail.com.
  
